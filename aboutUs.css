@@ -1,0 +1,18 @@
+
+
+  /* aboutUs */
+  .aboutUs{
+        display: flex;
+        background: url("profile.png") no-repeat center;
+        height: 100vh;
+        color: #fff;
+        min-height: 500px;
+        background-size: cover;
+        background-color: rgb(138, 184, 12);
+        font-family: 'Ubuntu', sans-serif;
+        background-image: url(https://i1.wp.com/ignitecorp.com.au/wp-content/uploads/2016/07/Website-background.jpg);
+        margin: auto;
+        padding-top: 200px;
+        padding-left: 150px;
+    }
+
